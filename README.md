@@ -1,4 +1,5 @@
-# Fit More, Transmit Better: Leveraging Overfitting for Image JSCC
+# Fit More, Transmit Better: 
+# Leveraging Overfitting for Image JSCC
 
 Official PyTorch implementation of our paper:
 
