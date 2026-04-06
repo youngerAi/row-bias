@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data / checkpoints
+checkpoint/
+checkpoints/
+datasets/
+data/
+outputs/
+results/
+logs/
+
+# Artifacts
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.csv
+*.json
+
+# Keep repository assets and docs
+!assets/
+!assets/*.png
+!README.md
+!CITATION.cff

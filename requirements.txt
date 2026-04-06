@@ -1,0 +1,7 @@
+# Install torch / torchvision separately to match your CUDA environment.
+numpy
+Pillow
+matplotlib
+pandas
+timm
+natten

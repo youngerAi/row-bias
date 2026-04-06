@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "Fit More, Transmit Better: Leveraging Overfitting for Image JSCC"
+type: software
+authors:
+  - family-names: "Xu"
+    given-names: "Wenyang"
+  - family-names: "Huang"
+    given-names: "Yinhuan"
+  - family-names: "Qin"
+    given-names: "Zhijin"
+repository-code: "https://github.com/"
+preferred-citation:
+  type: article
+  title: "Fit More, Transmit Better: Leveraging Overfitting for Image JSCC"
+  authors:
+    - family-names: "Xu"
+      given-names: "Wenyang"
+    - family-names: "Huang"
+      given-names: "Yinhuan"
+    - family-names: "Qin"
+      given-names: "Zhijin"
+  year: 2026
+  notes: "Manuscript draft"
